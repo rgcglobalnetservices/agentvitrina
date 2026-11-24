@@ -2,35 +2,32 @@
 
 Licensed software from [RGC Global Net Services](https://rgcglobalnet.com/) (RGC GLOBAL NET SERVICES SLU) that makes a PrestaShop or WooCommerce shop readable for AI shopping agents.
 
-The **free** modules publish `llms.txt` and schema.org from the current catalogue. Links go back to the merchant's own checkout. We do not take the shopper's payment, and we do not promise that ChatGPT or any other assistant will rank or display your products.
+The **free** modules publish `llms.txt` and schema.org from the current catalogue. Links go back to the merchant's own checkout. We do not take the shopper's payment, and we do not promise that ChatGPT, Gemini, Perplexity or any other assistant will rank or display your products. AI platforms decide what they show.
 
-Hosted plans (agent-ready feed, EU catalogue checks, per-agent attribution) are listed on the site but **are not on sale yet**.
+Paid plans are on sale on the pricing page. Prices include 21% Spanish VAT. Stripe processes the payment; the seller is RGC GLOBAL NET SERVICES SLU (NIF B05885538).
 
-## Free check and beta waitlist
+- Free: 0 € — PrestaShop module / WooCommerce plugin (no account needed): llms.txt and schema.org. Optional free account for hosted basics (1 store, 1 language).
+- Pro: 9 €/month or 90 €/year (2 months free), including 21% Spanish VAT — hosted agent-ready feed (ACP/UCP-compatible), MCP server, 5 languages, VAT per country, EU feed validator and attribution.
+- Agencies: 49 €/month, including 21% Spanish VAT, for 10 shops, +3 € per extra shop.
+- Founder: 199 €, including 21% Spanish VAT, for 3 years of Pro · 100 places. One payment; the term is stated in writing in the terms. Only 100 places.
 
-- Free shop check (no account): https://rgcglobalnet.com/agentvitrina/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
-- Beta waitlist (double opt-in, no payment): https://rgcglobalnet.com/agentvitrina/en/signup?utm_source=github&utm_medium=social&utm_campaign=launch-2611
+## Free check and downloads
 
-## Download the free modules
-
-Official downloads (do not use unofficial mirrors):
-
-- PrestaShop 0.3.2 (Academic Free License 3.0): https://rgcglobalnet.com/agentvitrina/download/agentvitrina-prestashop-0.3.2.zip
-- WooCommerce 0.4.3 (GPL-2.0-or-later): https://rgcglobalnet.com/agentvitrina/download/agentvitrina-woocommerce-0.4.3.zip
-- Download page: https://rgcglobalnet.com/agentvitrina/download/
+- Free shop check (instant score, no account; optional email for the full report): https://rgcglobalnet.com/agentvitrina/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
+- Official downloads: https://rgcglobalnet.com/agentvitrina/download/
+  - PrestaShop 0.3.2 (Academic Free License 3.0): https://rgcglobalnet.com/agentvitrina/download/agentvitrina-prestashop-0.3.2.zip
+  - WooCommerce 0.4.3 (GPL-2.0-or-later): https://rgcglobalnet.com/agentvitrina/download/agentvitrina-woocommerce-0.4.3.zip
 
 SHA-256 checksums (also in `SHA256SUMS`):
 
-```
-757df5abb1cd0983f537b253efef76ffe412540b680accffa229721c4848edce  agentvitrina-prestashop-0.3.2.zip
-9fe1d19b73d14fb86c818acb948a7d774b5389d1b6c6d15cc84e3fb5943f4c14  agentvitrina-woocommerce-0.4.3.zip
-```
+    757df5abb1cd0983f537b253efef76ffe412540b680accffa229721c4848edce  agentvitrina-prestashop-0.3.2.zip
+    9fe1d19b73d14fb86c818acb948a7d774b5389d1b6c6d15cc84e3fb5943f4c14  agentvitrina-woocommerce-0.4.3.zip
 
 ## Docs, pricing and product index
 
 - Product: https://rgcglobalnet.com/agentvitrina/
 - Docs: https://rgcglobalnet.com/agentvitrina/docs/
-- Pricing (paid plans not on sale yet): https://rgcglobalnet.com/agentvitrina/pricing/
+- Pricing: https://rgcglobalnet.com/agentvitrina/pricing/
 - FAQ: https://rgcglobalnet.com/agentvitrina/faq/
 - Site index for assistants: https://rgcglobalnet.com/llms.txt
 - Product index for assistants: https://rgcglobalnet.com/agentvitrina/llms.txt
@@ -44,26 +41,36 @@ This repository describes the public product and points at the official zip file
 
 ## Català
 
-AgentVitrina és programari amb llicència per fer llegible una botiga PrestaShop o WooCommerce als agents de compra amb IA (`llms.txt` i schema.org). La compra continua a la caixa de la botiga.
+AgentVitrina és programari amb llicència de RGC GLOBAL NET SERVICES SLU per fer llegible una botiga PrestaShop o WooCommerce als agents de compra amb IA (`llms.txt` i schema.org). La compra continua a la caixa de la botiga. No prometem que ChatGPT, Gemini o Perplexity mostrin els productes.
 
-- Prova gratuïta (sense compte): https://rgcglobalnet.com/agentvitrina/ca/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
-- Llista d'espera de la beta: https://rgcglobalnet.com/agentvitrina/ca/signup?utm_source=github&utm_medium=social&utm_campaign=launch-2611
-- Descàrrega: https://rgcglobalnet.com/agentvitrina/download/ca/
+Els plans de pagament ja són a la venda (IVA espanyol del 21 % inclòs). Stripe en processa el cobrament; el venedor és RGC GLOBAL NET SERVICES SLU (NIF B05885538).
 
-Els plans de pagament encara no són a la venda.
+- Gratuït: 0 € — mòdul (sense compte): llms.txt i schema.org.
+- Pro: 9 €/mes o 90 €/any (2 mesos de regal), IVA inclòs.
+- Agències: 49 €/mes, IVA inclòs, per a 10 botigues, +3 € per botiga extra.
+- Founder: 199 €, IVA inclòs, per 3 anys de Pro · 100 places.
+
+Prova gratuïta (sense compte): https://rgcglobalnet.com/agentvitrina/ca/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
+Descàrrega: https://rgcglobalnet.com/agentvitrina/download/ca/
+Preus: https://rgcglobalnet.com/agentvitrina/ca/pricing/
 
 ## Español
 
-AgentVitrina es software con licencia para que una tienda PrestaShop o WooCommerce sea legible para agentes de compra con IA (`llms.txt` y schema.org). La compra sigue en la caja de la tienda.
+AgentVitrina es software con licencia de RGC GLOBAL NET SERVICES SLU para que una tienda PrestaShop o WooCommerce sea legible para agentes de compra con IA (`llms.txt` y schema.org). La compra sigue en la caja de la tienda. No prometemos que ChatGPT, Gemini o Perplexity muestren los productos.
 
-- Prueba gratuita (sin cuenta): https://rgcglobalnet.com/agentvitrina/es/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
-- Lista de espera de la beta: https://rgcglobalnet.com/agentvitrina/es/signup?utm_source=github&utm_medium=social&utm_campaign=launch-2611
-- Descarga: https://rgcglobalnet.com/agentvitrina/download/es/
+Los planes de pago ya están a la venta (IVA español del 21 % incluido). Stripe procesa el cobro; el vendedor es RGC GLOBAL NET SERVICES SLU (NIF B05885538).
 
-Los planes de pago aún no están a la venta.
+- Gratis: 0 € — módulo (sin cuenta): llms.txt y schema.org.
+- Pro: 9 €/mes o 90 €/año (2 meses de regalo), IVA incluido.
+- Agencias: 49 €/mes, IVA incluido, para 10 tiendas, +3 € por tienda extra.
+- Founder: 199 €, IVA incluido, por 3 años de Pro · 100 plazas.
+
+Prueba gratuita (sin cuenta): https://rgcglobalnet.com/agentvitrina/es/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
+Descarga: https://rgcglobalnet.com/agentvitrina/download/es/
+Precios: https://rgcglobalnet.com/agentvitrina/es/pricing/
 
 ## Publisher
 
-RGC GLOBAL NET SERVICES SLU  
-https://rgcglobalnet.com/  
+RGC GLOBAL NET SERVICES SLU
+https://rgcglobalnet.com/
 contacto@rgcglobalnet.com
