@@ -4,12 +4,12 @@ Licensed software from [RGC Global Net Services](https://rgcglobalnet.com/) (RGC
 
 The **free** modules publish `llms.txt` and schema.org from the current catalogue. Links go back to the merchant's own checkout. We do not take the shopper's payment, and we do not promise that ChatGPT, Gemini, Perplexity or any other assistant will rank or display your products. AI platforms decide what they show.
 
-Paid plans are on sale on the pricing page. Prices include 21% Spanish VAT. Stripe processes the payment; the seller is RGC GLOBAL NET SERVICES SLU (NIF B05885538).
+Paid plans are on sale now. Prices include 21% Spanish VAT. Stripe processes the payment; the seller is RGC GLOBAL NET SERVICES SLU (NIF B05885538). Buy on the [pricing page](https://rgcglobalnet.com/agentvitrina/pricing/) or with the links below.
 
 - Free: 0 € — PrestaShop module / WooCommerce plugin (no account needed): llms.txt and schema.org. Optional free account for hosted basics (1 store, 1 language).
-- Pro: 9 €/month or 90 €/year (2 months free), including 21% Spanish VAT — hosted agent-ready feed (ACP/UCP-compatible), MCP server, 5 languages, VAT per country, EU feed validator and attribution.
-- Agencies: 49 €/month, including 21% Spanish VAT, for 10 shops, +3 € per extra shop.
-- Founder: 199 €, including 21% Spanish VAT, for 3 years of Pro · 100 places. One payment; the term is stated in writing in the terms. Only 100 places.
+- Pro: 9 €/month or 90 €/year (2 months free), including 21% Spanish VAT — hosted agent-ready feed (ACP/UCP-compatible), MCP server, 5 languages, VAT per country, EU feed validator and attribution. [Buy monthly](https://buy.stripe.com/fZubJ2aQscaS52dbe1fUQ02) · [Buy yearly](https://buy.stripe.com/fZu7sMe2Eej01Q11DrfUQ03)
+- Agencies: 49 €/month, including 21% Spanish VAT, for 10 shops, +3 € per extra shop. [Buy](https://buy.stripe.com/4gM3cwcYAa2K52d81PfUQ01)
+- Founder: 199 €, including 21% Spanish VAT, for 3 years of Pro · 100 places. One payment; the term is stated in writing in the terms. Only 100 places. [Buy Founder](https://buy.stripe.com/6oUdRa0bOgr81Q13LzfUQ00)
 
 ## Free check and downloads
 
@@ -46,9 +46,9 @@ AgentVitrina és programari amb llicència de RGC GLOBAL NET SERVICES SLU per fe
 Els plans de pagament ja són a la venda (IVA espanyol del 21 % inclòs). Stripe en processa el cobrament; el venedor és RGC GLOBAL NET SERVICES SLU (NIF B05885538).
 
 - Gratuït: 0 € — mòdul (sense compte): llms.txt i schema.org.
-- Pro: 9 €/mes o 90 €/any (2 mesos de regal), IVA inclòs.
-- Agències: 49 €/mes, IVA inclòs, per a 10 botigues, +3 € per botiga extra.
-- Founder: 199 €, IVA inclòs, per 3 anys de Pro · 100 places.
+- Pro: 9 €/mes o 90 €/any (2 mesos de regal), IVA inclòs. [Compra mensual](https://buy.stripe.com/fZubJ2aQscaS52dbe1fUQ02) · [Compra anual](https://buy.stripe.com/fZu7sMe2Eej01Q11DrfUQ03)
+- Agències: 49 €/mes, IVA inclòs, per a 10 botigues, +3 € per botiga extra. [Compra](https://buy.stripe.com/4gM3cwcYAa2K52d81PfUQ01)
+- Founder: 199 €, IVA inclòs, per 3 anys de Pro · 100 places. [Compra Founder](https://buy.stripe.com/6oUdRa0bOgr81Q13LzfUQ00)
 
 Prova gratuïta (sense compte): https://rgcglobalnet.com/agentvitrina/ca/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
 Descàrrega: https://rgcglobalnet.com/agentvitrina/download/ca/
@@ -61,9 +61,9 @@ AgentVitrina es software con licencia de RGC GLOBAL NET SERVICES SLU para que un
 Los planes de pago ya están a la venta (IVA español del 21 % incluido). Stripe procesa el cobro; el vendedor es RGC GLOBAL NET SERVICES SLU (NIF B05885538).
 
 - Gratis: 0 € — módulo (sin cuenta): llms.txt y schema.org.
-- Pro: 9 €/mes o 90 €/año (2 meses de regalo), IVA incluido.
-- Agencias: 49 €/mes, IVA incluido, para 10 tiendas, +3 € por tienda extra.
-- Founder: 199 €, IVA incluido, por 3 años de Pro · 100 plazas.
+- Pro: 9 €/mes o 90 €/año (2 meses de regalo), IVA incluido. [Comprar mensual](https://buy.stripe.com/fZubJ2aQscaS52dbe1fUQ02) · [Comprar anual](https://buy.stripe.com/fZu7sMe2Eej01Q11DrfUQ03)
+- Agencias: 49 €/mes, IVA incluido, para 10 tiendas, +3 € por tienda extra. [Comprar](https://buy.stripe.com/4gM3cwcYAa2K52d81PfUQ01)
+- Founder: 199 €, IVA incluido, por 3 años de Pro · 100 plazas. [Comprar Founder](https://buy.stripe.com/6oUdRa0bOgr81Q13LzfUQ00)
 
 Prueba gratuita (sin cuenta): https://rgcglobalnet.com/agentvitrina/es/check/?utm_source=github&utm_medium=social&utm_campaign=launch-2611
 Descarga: https://rgcglobalnet.com/agentvitrina/download/es/
